@@ -1,0 +1,8 @@
+# ninja log v5
+4	1074	7354619994292702	CMakeFiles/Minesweeper.dir/main.cpp.obj	86fe212e7592a00
+3	872	7236266373902569	CMakeFiles/Minesweeper.dir/Window.cpp.obj	1aa871388cf0cda4
+19	763	7228201284871371	CMakeFiles/Minesweeper.dir/TextureManager.cpp.obj	942330d924872917
+1074	1905	7354620002533976	Minesweeper.exe	82f2b71150e1fddd
+10	580	7236161460949276	CMakeFiles/Minesweeper.dir/Tile.cpp.obj	fbed945adbed3577
+21	1404	7236204774893722	CMakeFiles/Minesweeper.dir/Board.cpp.obj	f23748aeae84e88c
+3	668	7356098951969792	build.ninja	325695c3579e378c
